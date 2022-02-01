@@ -1,7 +1,8 @@
 {
-    "project": "Alphatrons",
+    "project": "Alphatron",
     "policies": [
         "d4e21db2ee5db51117607f06972d7957f5eb03be04fa157766277eec",
-        "004639aab5f4e2c5336e2aa03cf40fe438e6a9a97d2d4ec92eb1f862"
+        "004639aab5f4e2c5336e2aa03c40fe438e6a9a97d2d4ec92eb1f862",
+        "e246448cbdec5c497ec6d58d47f22d00e735d60314f91dc8b7287ad5"
     ]
 }
